@@ -1,4 +1,14 @@
+
+
+
+
+
 # CRUDAngular
+
+Following example repository at:
+  https://github.com/only2dhir/angular6-example
+which follows:
+  https://www.devglan.com/angular/angular-6-example
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
